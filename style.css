@@ -1,11 +1,3 @@
-:root {
-  --gradient: linear-gradient(
-    360deg,
-    rgba(45, 112, 1253, 0.73) 0%,
-    #ffddae 100%
-  );
-}
-
 body {
   background: linear-gradient(to right, #ff7e5f, #feb47b);
   margin: 0;
